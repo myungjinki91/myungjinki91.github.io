@@ -1,6 +1,6 @@
 # Introduction
 
-Myeongjin Ki's github pages
+42-mki Ki's github pages
 
 # Goals
 
