@@ -1,6 +1,6 @@
 # Introduction
 
-42-mki Ki's github pages
+meongjinki's github pages
 
 # Goals
 
