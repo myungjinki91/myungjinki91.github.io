@@ -2,14 +2,13 @@
 
 meongjinki's github pages
 
-# Goals
+# Libraries
 
-- It's my tech blog for writing my IT thoughts
-- It's my place to announce my projects
-- For practicing writing
-- For practicing english
-- Training to create blog
-
-# Static files
-
-- /docs/ : static files for github pages
+- Environment: Create React App
+- Type: TypeScript
+- Module bundler: Webpack
+- Transcompiler: Babel
+- UI: ReactJS
+- CSS: Styled Components
+- Router: React Router
+- Publishing: gh-pages
