@@ -25,7 +25,17 @@ const Home = () => {
     <>
       <Header>myungjinki91.github.io</Header>
       <Container>
-        <Project>1. Nomadcoder React Masterclass: Coin Tracker</Project>
+        <Project>
+          <a href="https://myungjinki91.github.io/crypto-tracker-1/">
+            1. Nomadcoder React Masterclass: Coin Tracker
+          </a>
+          <a href="https://myungjinki91.github.io/calculator-1/">
+            2. Calculator
+          </a>
+          <a href="https://myungjinki91.github.io/chrome-welcome-page">
+            3. Chrome welcome page
+          </a>
+        </Project>
       </Container>
     </>
   );
