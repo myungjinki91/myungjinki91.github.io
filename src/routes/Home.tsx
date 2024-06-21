@@ -32,9 +32,9 @@ const Home = () => {
           <a href="https://myungjinki91.github.io/calculator-1/">
             2. Calculator
           </a>
-          <a href="https://myungjinki91.github.io/chrome-welcome-page">
+          {/* <a href="https://myungjinki91.github.io/chrome-welcome-page">
             3. Chrome welcome page
-          </a>
+          </a> */}
         </Project>
       </Container>
     </>
